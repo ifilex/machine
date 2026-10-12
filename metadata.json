@@ -1,0 +1,6 @@
+{
+  "name": "La Máquina Increíble 2D - Laboratorio Cognitivo",
+  "description": "Juego de física e ingenio en 2D con mecanismos interactivos, análisis cognitivo del jugador y exportación de reportes CSV/PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
